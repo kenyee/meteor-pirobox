@@ -28,7 +28,7 @@ How to use
               piro_scroll : true //pirobox always positioned at the center of the page
             });
           }
-        To enable facebook/twitter sharing, you can also add the "share:true" parameter.
+	To enable facebook/twitter sharing, you can also add the "share:true" parameter.
 
 The full documentation is here http://www.pirolab.it/pirobox/.  You can look at the examples there for alternative ways of setting up Pirobox.
 
