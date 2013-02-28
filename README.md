@@ -15,7 +15,10 @@ How to use
 	<a href="{{bigimageurl}}" media="single" class="pirobox" 
 	  title="{{title}}"><img src="{{iconurl}}" alt="{{title}}"></a>
 	
-	You can use media="gallery" if you want a gallery (you also have to change the class to "pirobox_gall") or media="inline" if you want inline HTML.  And galleries support mixed content.
+	You can use media="gallery" if you want a gallery
+	(you also have to change the class to "pirobox_gall")
+	You can also use media="inline" if you want inline HTML.
+	Galleries support mixed content.
 	
 	Then you can initialize it in your template's rendered method like this:
 	  Template.gallery.rendered = function () {
