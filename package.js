@@ -7,18 +7,18 @@ api.use('jquery', 'client');
 api.add_files([
 	'lib/js/pirobox_extended.js',
 	'lib/js/error.jpg',
-        'lib/css/style_3/6.png',
-        'lib/css/style_3/arrow_l.png',
-        'lib/css/style_3/arrow_r.png',
-        'lib/css/style_3/blank.gif',
-        'lib/css/style_3/buttons.png',
-        'lib/css/style_3/caption.png',
-        'lib/css/style_3/caption_up_down.png',
-        'lib/css/style_3/loader_nav.png',
-        'lib/css/style_3/nav-bg.png',
-        'lib/css/style_3/new_skin.png',
-        'lib/css/style_3/new_skin_left.png',
-        'lib/css/style_3/new_skin_top.png',
-        'lib/css/style_3/style.css']
+        'lib/css/style_8/bd_mdl.png',
+        'lib/css/style_8/blank.gif',
+        'lib/css/style_8/buttons.png',
+        'lib/css/style_8/caption.png',
+        'lib/css/style_8/caption_up_down.png',
+        'lib/css/style_8/caption_w.png',
+        'lib/css/style_8/close_p.png',
+        'lib/css/style_8/loader.gif',
+        'lib/css/style_8/loader_nav.png',
+        'lib/css/style_8/new_skin.png',
+        'lib/css/style_8/new_skin_left.png',
+        'lib/css/style_8/new_skin_top.png',
+        'lib/css/style_8/style.css']
 , 'client');
 });
