@@ -7,7 +7,7 @@ api.use('jquery', 'client');
 api.add_files([
 	'lib/js/pirobox_extended.js',
 	'lib/js/error.jpg',
-        'lib/css/style_8/bd_mdl.png',
+        'lib/css/style_8/bg_mdl.png',
         'lib/css/style_8/blank.gif',
         'lib/css/style_8/buttons.png',
         'lib/css/style_8/caption.png',
