@@ -6,6 +6,7 @@ Package.on_use(function(api) {
 api.use('jquery', 'client');
 api.add_files([
 	'lib/js/pirobox_extended.js',
+	'lib/js/easing.js',
 	'lib/js/error.jpg',
         'lib/css/style_8/bg_mdl.png',
         'lib/css/style_8/blank.gif',
