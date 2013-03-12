@@ -30,8 +30,6 @@ How to use
             });
           }
 	To enable facebook/twitter sharing, you can also add the "share:true" parameter.
-	Note that you should leave the zoom_mode attribute set to false;
-	it needs jquery-ui 1.9 to work properly and the current version is 1.8.16.
 
 The full documentation is here http://jquery.pirolab.it/pirobox/.  You can look at the examples there for alternative ways of setting up Pirobox.
 
