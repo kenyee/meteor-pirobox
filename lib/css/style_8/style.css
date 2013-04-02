@@ -42,7 +42,7 @@
 	float:left;
 	width:auto;
 	height:auto;
-	background: url( caption.png);
+	background: url( /packages/pirobox/lib/css/style_8/caption.png);
 	padding:5px;
 	margin:0 0 0 4px;
 }
@@ -59,31 +59,31 @@
 .piro_html .h_t_l{ 
 	width:25px; 
 	height:25px; 
-	background: url(new_skin.png) top left no-repeat;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin.png) top left no-repeat;
 }
 .piro_html .h_t_r{ 
 	width:25px; 
 	height:25px; 
-	background: url(new_skin.png) top right no-repeat;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin.png) top right no-repeat;
 }
 .piro_html .h_t_c{  
 	height:25px;
-	background: url(new_skin_top.png) top repeat-x;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin_top.png) top repeat-x;
 }
 
 .piro_html .h_c_l{
 	width:25px; 
-	background: url(new_skin_left.png) left repeat-y; 
+	background: url(/packages/pirobox/lib/css/style_8/new_skin_left.png) left repeat-y; 
 }
 .piro_html .h_c_c{
-	background: url(bg_mdl.png);
+	background: url(/packages/pirobox/lib/css/style_8/bg_mdl.png);
 	margin:0; 
 	padding:0; 
 	/*overflow:hidden;*/
 	position:relative;
 }
 .piro_html .h_c_c .div_reg{ 
-	/*background: url(bg_mdl.png);*/
+	/*background: url(/packages/pirobox/lib/css/style_8/bg_mdl.png);*/
 	width:560px; 
 	/*overflow:hidden; */
 	height:560px; 
@@ -102,39 +102,39 @@
 .piro_html .h_c_c .div_reg img{}
 .piro_html .h_c_r{
 	width:25px; 
-	background: url(new_skin_left.png) right repeat-y;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin_left.png) right repeat-y;
 }
 
 .piro_html .h_mb_c{  
 	height:0;
-	background: url(bg_mdl.png);
+	background: url(/packages/pirobox/lib/css/style_8/bg_mdl.png);
 	position:relative;
 }
 .piro_html .h_mb_l{ 
 	width:25px;
 	height:0;
-	background: url(new_skin_left.png) left repeat-y; 
+	background: url(/packages/pirobox/lib/css/style_8/new_skin_left.png) left repeat-y; 
 }
 .piro_html .h_mb_r{
 	width:25px;
 	height:0;
-	background: url(new_skin_left.png) right repeat-y;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin_left.png) right repeat-y;
 	position:relative;
 }
 
 .piro_html .h_b_c{  
 	height:25px;
-	background: url(new_skin_top.png) bottom repeat-x;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin_top.png) bottom repeat-x;
 }
 .piro_html .h_b_l{ 
 	width:25px; 
 	height:25px;
-	background: url(new_skin.png) bottom left no-repeat;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin.png) bottom left no-repeat;
 }
 .piro_html .h_b_r{
 	width:25px; 
 	height:25px;
-	background: url(new_skin.png) bottom right no-repeat;
+	background: url(/packages/pirobox/lib/css/style_8/new_skin.png) bottom right no-repeat;
 }
 
 /*::::: LOADER :::::*/
@@ -148,7 +148,7 @@
 	display:block;
 	z-index:1500197;
 	cursor:pointer;
-	background:url(loader_nav.png) no-repeat;
+	background:url(/packages/pirobox/lib/css/style_8/loader_nav.png) no-repeat;
 }
 .piro_loader span{
 	position:absolute;
@@ -161,7 +161,7 @@
 	padding:0;
 	display:block;
 	z-index:1500198; 
-	background:url(loader.gif) center center no-repeat; 
+	background:url(/packages/pirobox/lib/css/style_8/loader.gif) center center no-repeat; 
 }
 
 /*::::: BOTTOM NAVBAR :::::*/
@@ -171,7 +171,7 @@
 	margin:5px 0 0 0;
 	height:0; 
 	width:100%; 
-	background: url(caption.png) repeat; 
+	background: url(/packages/pirobox/lib/css/style_8/caption.png) repeat; 
 	z-index:1500202;
 /*	border-left:1px solid #101010;
 	border-right:1px solid #101010;*/
@@ -189,7 +189,7 @@
 	width:auto; 
 	height:28px; 
 	overflow:hidden;  
-/*	background:url(caption.png); 
+/*	background:url(/packages/pirobox/lib/css/style_8/caption.png); 
 	border:1px solid #111;
 	-webkit-border-radius:6px;
 	-moz-border-radius:6px;
@@ -201,7 +201,7 @@
 .piro_caption_up_down{
 	width:25px; 
 	height:29px; 
-	background:url(caption_up_down.png) top no-repeat; 
+	background:url(/packages/pirobox/lib/css/style_8/caption_up_down.png) top no-repeat; 
 	position:absolute; top:-29px; right:10px;
 }
 .piro_caption p{
@@ -220,7 +220,7 @@
 
 /*::::: GENERIC RULES FOR NAVIGATION ELEMENTS :::::*/
 .piro_close,a.piro_next,a.piro_prev,.piro_prev_fake,.piro_next_fake,.piro_twitter,.piro_facebook{width:26px; height:26px;}
-.piro_close,a.piro_next,a.piro_prev,.piro_prev_fake,.piro_next_fake,.piro_zoomIn,.piro_zoomOut,.piro_twitter,.piro_facebook{position:absolute; right:0; bottom:7px; background:url(buttons.png) no-repeat;}
+.piro_close,a.piro_next,a.piro_prev,.piro_prev_fake,.piro_next_fake,.piro_zoomIn,.piro_zoomOut,.piro_twitter,.piro_facebook{position:absolute; right:0; bottom:7px; background:url(/packages/pirobox/lib/css/style_8/buttons.png) no-repeat;}
 
 /*::::: NAVIGATION OVER IMAGE :::::*/
 .nav_big{
@@ -229,7 +229,7 @@
 	height:100%;
 	top:0;
 	left:0;
-	background: url(blank.gif);
+	background: url(/packages/pirobox/lib/css/style_8/blank.gif);
 	z-index:1500201;
 }
 .nav_big a.piro_next{
@@ -264,13 +264,13 @@
 	z-index:1500221;
 }
 .nav_big a:hover.piro_prev,.nav_big a:hover.piro_next{
-	background:url(caption_w.png);
+	background:url(/packages/pirobox/lib/css/style_8/caption_w.png);
 }
 .nav_big a.piro_close{
 	position:absolute;
 	height:30px!important; 
 	width:30px; 
-	background:url(close_p.png) no-repeat;
+	background:url(/packages/pirobox/lib/css/style_8/close_p.png) no-repeat;
 	background-position:0 0;
 	top:-22px; 
 	right:-22px; 
